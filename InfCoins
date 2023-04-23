@@ -1,1 +1,3 @@
-loadstring(game:HttpGet
+while true do
+  game.ReplicatedStorage.MainEvent:FireServer("Stomp")
+  end
